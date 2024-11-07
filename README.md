@@ -1,6 +1,5 @@
 # GraphMiner
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Bash](https://img.shields.io/badge/Scripting-Bash-blue.svg)
 ![GitHub Issues](https://img.shields.io/github/issues/tavgar/GraphMiner.svg)
 ![GitHub Stars](https://img.shields.io/github/stars/tavgar/GraphMiner.svg?style=social)
