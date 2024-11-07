@@ -2,8 +2,8 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Bash](https://img.shields.io/badge/Scripting-Bash-blue.svg)
-![GitHub Issues](https://img.shields.io/github/issues/your-username/GraphMiner.svg)
-![GitHub Stars](https://img.shields.io/github/stars/your-username/GraphMiner.svg?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/tavgar/GraphMiner.svg)
+![GitHub Stars](https://img.shields.io/github/stars/tavgar/GraphMiner.svg?style=social)
 
 **GraphMiner** is a powerful Bash script designed to extract GraphQL queries and mutations from JavaScript (JS) files associated with a specified domain. Leveraging the capabilities of [`waymore`](https://github.com/Xnl-h4ck3r/waymore) and [`httpx`](https://github.com/projectdiscovery/httpx), GraphMiner automates the process of discovering JS URLs, retrieving their responses, and parsing them for valuable GraphQL operations.
 
@@ -75,7 +75,7 @@ Before using **GraphMiner**, ensure that the following tools are installed and a
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/GraphMiner.git
+   git clone https://github.com/tavgar/GraphMiner.git
    ```
 
 2. **Navigate to the Directory:**
@@ -213,7 +213,7 @@ Use **GraphMiner** **responsibly** and **ethically**.
 
 For any questions, suggestions, or feedback, feel free to reach out:
 
-- **GitHub Issues:** [https://github.com/your-username/GraphMiner/issues](https://github.com/your-username/GraphMiner/issues)
+- **GitHub Issues:** [https://github.com/tavgar/GraphMiner/issues](https://github.com/tavgar/GraphMiner/issues)
 ---
 
 ## 📝 Acknowledgements
